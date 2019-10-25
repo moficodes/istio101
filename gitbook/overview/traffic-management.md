@@ -119,7 +119,7 @@ kubectl apply -f 01-setup/03-destination-rule-all.yaml
 To route to one version only, you apply virtual services that set the default version for the microservices. In this case, the virtual services will route all traffic to `v1` of each microservice.
 
 ```text
-kubectl apply -f 02-routing/01-virtual-service-all-v1.yaml
+kubectl apply -f 02-routing/01-all-v1.yaml
 ```
 
 Now if we go to our browser and refresh we won't see the rating change. Because we are only seeing `v1` of the rating app.
