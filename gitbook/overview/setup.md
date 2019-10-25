@@ -10,17 +10,19 @@ In this section, you will create your own IBM Cloud account, and then get access
 
 ## Create your IBM Cloud account
 
-[Sign up for IBM Cloud](https://ibm.biz/BdzgGs)
+Sign up for IBM Cloud[ ibm.biz/dodkcistio](http://ibm.biz/dodkcistio)
 
 ## Get a Kubernetes Cluster
 
 Generally to get started with Kubernetes, the first step is to provision a cluster which can take up to 10 minutes. In addition, free clusters come with limited features and a single worker VM/node. For this workshop, we've created Standard \(paid\) clusters with full Kubernetes functionality.
 
-To get a cluster, head to the[ Get Cluster](https://apiworld.mybluemix.net/) tool.
+To get a cluster, head to the Get Cluster tool. [https://dodkcistio.mybluemix.net/](https://dodkcistio.mybluemix.net/)
+
+Use the key `istiolab` and input the email you used to sign up for IBM Cloud. Ensure that US East is chosen as we've created clusters in the Washington data center for this lab.
 
 ![](../.gitbook/assets/screen-shot-2019-04-15-at-4.42.49-pm.png)
 
-Use the key `k8slab` and input the email you used to sign up for IBM Cloud. Ensure that US East is chosen as we've created clusters in the Washington data center for this lab.
+
 
 {% tabs %}
 {% tab title="Using Cloudshell" %}

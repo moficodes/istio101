@@ -1,5 +1,5 @@
 ---
-description: Traffic Management with Istio
+description: Kubernetes Management with Istio
 ---
 
 # Introduction
