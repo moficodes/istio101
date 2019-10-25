@@ -10,3 +10,5 @@ Istio is also not the only service mesh option.
 * Kuma
 * Maesh
 
+please leave feedback here at - [moficodes.devopsdayskc.org](http://moficodes.devopsdayskc.org)
+
