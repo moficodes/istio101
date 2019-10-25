@@ -15,6 +15,8 @@ In this workshop we will see how istio can be used to manage traffic in a demo a
 * Mofizur Rahman, IBM Developer Advocate \([@moficodes](https://twitter.com/moficodes)\)
 * JJ Asghar, IBM Developer Advocate \([@jjasghar](https://twitter.com/jjasghar)\)
 
+![dodkc](../.gitbook/assets/image%20%286%29.png)
+
 ## Agenda
 
 * 2:00 PM \(Setup\)

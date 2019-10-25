@@ -46,13 +46,13 @@ kill <process-id>
 
 2. In your browser, go to `http://127.0.0.1:16686`
 
-![Jaeger UI](../.gitbook/assets/image%20%287%29.png)
+![Jaeger UI](../.gitbook/assets/image%20%288%29.png)
 
 3. From the **Services** menu, select either the **guestbook** or **analyzer** service.
 
 4. Scroll to the bottom and click on **Find Traces** button to see traces.
 
-![Jaeger UI](../.gitbook/assets/image%20%2812%29.png)
+![Jaeger UI](../.gitbook/assets/image%20%2813%29.png)
 
 5. 
 
@@ -72,7 +72,7 @@ kill <process-id>
 
 2. Browse to [http://localhost:3000](http://localhost:3000) and navigate to the Istio Mesh Dashboard by clicking on the Home menu on the top left.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 3. 
 
@@ -93,7 +93,7 @@ Kiali is an open-source project that installs on top of Istio to visualize your 
 2. Go to [http://localhost:20001/kiali/console](http://localhost:20001/kiali/console) to access kiali dashboard. Use admin/admin as username and password.
 3. Click the "Graph" tab on the left side to see the a visual service graph of the various services in your Istio mesh. You can see request rates as well by clicking the "Edge Labels" tab and choosing "Traffic rate per second".
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 4. 
 

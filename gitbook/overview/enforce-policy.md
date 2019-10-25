@@ -26,7 +26,7 @@ kubectl apply -f 06-rate-limit-policy/02-productpage-ratelimit.yaml
 
 3. On your browser go to the productpage url and quickly refresh a few times.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 4. Lets delete this policy 
 
